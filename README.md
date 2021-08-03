@@ -79,6 +79,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 [Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)  | [DevXenon](https://github.com/phaticusthiccy)
 Author, Base, Bug Fixes, Modules |  Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules | Modules, Idea
 
+## Co Creator
+[![King Amda](https://github.com/King-Amda.png?size=100)](https://github.com/King-Amda)
+
+
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@itacirgabral](https://github.com/itacirgabral) for helps
